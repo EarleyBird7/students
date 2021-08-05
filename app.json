@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "students",
+    "slug": "snack-675ac266-1753-4329-ade9-edf7f14f3259",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+    "package":"com.testUser.students" 
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
